@@ -1,6 +1,6 @@
 # Live Preview
 
- (https://react-app-memory-game.netlify.app)
+ https://react-app-memory-game.netlify.app
 
 # Getting Started with Create React App
 
